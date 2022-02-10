@@ -9,6 +9,6 @@
         }
     },
     "website": "",
-    "repository": "https://github.com/FunnyWolf/nginx-proxy-heroku",
+    "repository": "github.com/jacktomes/nginx-proxy-heroku",
     "stack": "container"
 }
